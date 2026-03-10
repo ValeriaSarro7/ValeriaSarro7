@@ -1,3 +1,3 @@
-- Email: [valesarro@hotmail.com]  
-- LinkedIn: [https://www.linkedin.com/in/valeria-sarro/]
-- Work account: [https://github.com/ValesarroRS]
+- Email: valesarro@hotmail.com 
+- LinkedIn: https://www.linkedin.com/in/valeria-sarro/
+- Work account: https://github.com/ValesarroRS
